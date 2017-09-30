@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TelefoniaEstrategyMmacias</string>
+    <string name="texto_compania">Compañia</string>
+    <string name="texto_minutos_local">Minutos Locales</string>
+    <string name="texto_minutos_ld">Minutos Larga Distancia</string>
+    <string name="texto_calcular">Calcular</string>
+    <string name="texto_limpiar">Limpiar</string>
+    <string name="texto_total">Total</string>
+    <string name="texto_mostrar_creditos">Mostrar Creditos</string>
+</resources>
